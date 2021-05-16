@@ -10,7 +10,7 @@ In this project, I have created one predictive model which tells us best crop to
 
 ## Built with
        
-![numpy](https://user-images.githubusercontent.com/59119995/118398083-b8ee0400-b674-11eb-9340-a91187eb44d6.png) ![pandas](https://user-images.githubusercontent.com/59119995/118397957-15045880-b674-11eb-81a3-da10b8f9ebae.png) ![matplotlib](https://user-images.githubusercontent.com/59119995/118397972-2cdbdc80-b674-11eb-8d21-4d6d11b7ce67.png) ![seaborn](https://user-images.githubusercontent.com/59119995/118397976-3402ea80-b674-11eb-92de-19c7b0a23b43.png) ![jupyter](https://user-images.githubusercontent.com/59119995/118397981-3bc28f00-b674-11eb-85e2-fa6055589322.png) ![python](https://user-images.githubusercontent.com/59119995/118397990-43823380-b674-11eb-8427-fe533e697ef8.png)
+![numpy](https://user-images.githubusercontent.com/59119995/118398272-7aa51480-b675-11eb-93d7-61b1dac92bd1.png) ![pandas](https://user-images.githubusercontent.com/59119995/118398277-809af580-b675-11eb-8577-26e0ae695c34.png) ![matplotlib](https://user-images.githubusercontent.com/59119995/118398285-8690d680-b675-11eb-81b4-020626a91b70.png) ![seaborn](https://user-images.githubusercontent.com/59119995/118398289-8e507b00-b675-11eb-92c1-18220960f20c.png) ![jupyter](https://user-images.githubusercontent.com/59119995/118398295-95778900-b675-11eb-818e-b16da6a330fe.png) ![python](https://user-images.githubusercontent.com/59119995/118398311-a922ef80-b675-11eb-9dc1-3b2d424016f8.png)
 
 
 
