@@ -6,7 +6,7 @@ Farming is one of the major sectors that influences a country’s economic growt
 
 In country like India, majority of the population is dependent on agriculture for their livelihood. Many new technologies, such as Machine Learning and Deep Learning, are being implemented into agriculture so that it is easier for farmers to grow and maximize their yield.
 
-In this project, I have created one predictive model which tells us best crop to grow when user provides different cliatic and soil conditions.
+In this project, I have created one predictive model which tells us the best crop to grow when user provides different climatic and soil conditions.
 
 ## Built with
        
